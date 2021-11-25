@@ -1,0 +1,15 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+   background-color: red;
+   height: 50px;
+   font-size: 30px;
+   color: whitesmoke;
+   
+}
+#footer{
+    margin-top: 350px;
+    color: white;
+}
